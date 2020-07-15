@@ -105,7 +105,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.32.Final</version>
+            <version>4.1.42.Final</version>
         </dependency>
         <!-- 增加pagehelper类、mybatis类，因为Service使用了，不导入会报序列化错 -->
         <dependency>
